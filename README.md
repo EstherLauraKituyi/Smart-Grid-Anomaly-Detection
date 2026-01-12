@@ -24,6 +24,7 @@ Synchronized Voltage & Current trends.
 Real-time Anomaly KPI cards.
 
 A filtered Fault Log for audit purposes.
+![Power BI Dashboard](Dashboard.png)
 
 Predictive AI: A Random Forest model analyzes historical "Lags" and Power (Watts) to predict faults.
 
@@ -33,6 +34,7 @@ Hybrid Alert System: A Python control script combines AI probability with a Safe
 Feature Importance: Through training, the model identified Power (Watts) as the strongest predictor of grid instability, outperforming raw voltage readings.
 
 Model Performance: By implementing class_weight='balanced', the model effectively identifies rare fault events in imbalanced datasets.
+![Feature Importance](Predictor.png)
 
 🚀 How to Run
 
