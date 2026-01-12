@@ -24,7 +24,7 @@ Synchronized Voltage & Current trends.
 Real-time Anomaly KPI cards.
 
 A filtered Fault Log for audit purposes.
-![Power BI Dashboard](Dashboard.png)
+![Power BI Dashboard](Dashboard.jpg)
 
 Predictive AI: A Random Forest model analyzes historical "Lags" and Power (Watts) to predict faults.
 
